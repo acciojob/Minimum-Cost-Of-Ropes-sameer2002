@@ -34,7 +34,8 @@ while(arr.length>=2){
   total=total+sum;
   // console.log("total "+total+"----------------------");
 }
-
+console.log(total);
+ 
  
 let result=document.getElementById('result');
 result.innerHTML=total;
