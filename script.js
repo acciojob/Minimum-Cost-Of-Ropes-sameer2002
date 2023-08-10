@@ -38,6 +38,6 @@ console.log(total);
  
  
 let result=document.getElementById('result');
-result.innerHTML=total;
+result.innerHTML=total.toString();
 
 }  
